@@ -1,0 +1,11 @@
+.heroes {
+  list-style-type: none;
+}
+
+.heroes li {
+  padding: 0;
+}
+
+.heroes li .selected {
+  background-color: palegreen;
+}
